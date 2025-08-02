@@ -6,9 +6,15 @@ Built as part of the [freeCodeCamp](https://www.freecodecamp.org/) curriculum:
 
 ---
 
-## 📸 Preview
+## 📸 New Version Preview
 
-![Game Screenshot](./preview.webp)
+![Game Screenshot](./assets/images/preview.webp)
+
+---
+
+## 📸 Old Version
+
+![Game Screenshot](./assets/images/preview.webp)
 
 ---
 
@@ -70,9 +76,12 @@ Abra o arquivo `index.html` no navegador:
 
 ```bash
 role-playing-game/
-├── index.html       
-├── styles.css    
-└── script.js       
+├── index.html           
+└── assets 
+    ├── css
+    ├── javascrpit
+    └── images
+    
 ```
 
 ---
