@@ -8,7 +8,7 @@ Built as part of the [freeCodeCamp](https://www.freecodecamp.org/) curriculum:
 
 ## 📸 New Version Preview
 
-![Game Screenshot](./assets/images/preview.webp)
+![Game Screenshot](./assets/images/game-preview.webp)
 
 ---
 
